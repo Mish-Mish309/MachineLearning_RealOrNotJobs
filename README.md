@@ -3,7 +3,7 @@ A machine learning project alongside Or Bezalel where the machine will be traine
 Dataset Name: 🧠 Brain Tumor MRI Dataset
 Dataset URL: https://www.kaggle.com/datasets/maulikgajera/brain-tumor-mri-dataset
 Assingment TYPE: עיבוד תמונה
-Learning Type:
+Learning Type: Classification - because it classifies the objects in a given category.
 Implemented Learning algorithms:
 Video URL:
 Repository URL: 
