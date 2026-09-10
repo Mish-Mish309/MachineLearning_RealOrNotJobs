@@ -1,8 +1,8 @@
-# MachineLearning_MRIScan
-A machine learning project alongside Or Bezalel where the machine will be trained to scan images of MRI photos to discover if the patient has a tumor and if yes - what of 3 tumor type is it: Glioma, Meningioma, Pituitary tumor
-Dataset Name: 🧠 Brain Tumor MRI Dataset
-Dataset URL: https://www.kaggle.com/datasets/maulikgajera/brain-tumor-mri-dataset
-Assingment TYPE: עיבוד תמונה
+# MachineLearning_RealOrNotJobs
+A machine learning project alongside Or Bezalel where the machine will be trained to understand whether a job posting is real or fake 
+Dataset Name: Real / Fake Job Posting Prediction
+Dataset URL: https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction/data
+Assingment TYPE: עיבוד טקסט
 Learning Type: Classification - because it classifies the objects in a given category.
 Implemented Learning algorithms:
 Video URL:
